@@ -1,0 +1,21 @@
+{
+  "name": "deletethiscarousel",
+  "version": "1.0.1",
+  "description": "breakpoints brainhubeu",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kostya Kazmiruk <kostyakazmiruk@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Green8888Elephant/brainhudeu__react-carousel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Green8888Elephant/brainhudeu__react-carouselbreakpoints/issues"
+  },
+  "homepage": "https://github.com/Green8888Elephant/brainhudeu__react-carouselbreakpoints#readme"
+}
